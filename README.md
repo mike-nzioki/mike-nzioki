@@ -3,14 +3,14 @@
 I am Mike Nzioki, a software Developer at [Software Technologies Limited](https://www.stl-horizon.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
-  <a href="https://twitter.com/mike-nziokih">
-    <img src="https://img.shields.io/twitter/follow/mike-nziokih?mike-nziokih?color=green&logo=twitter" alt="twitter" />
+  <a href="https://twitter.com/mikie_mike">
+    <img src="https://img.shields.io/twitter/follow/mikie_mike?mikie_mike?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.com/mike-nzioki/mike-nzioki">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mike-nzioki.mike-nzioki" alt="page views" />
   </a>
   <a href="https://www.reddit.com/user/mike-nzioki">
-    <img alt="Reddit User Paul Odhiambo" src="https://img.shields.io/reddit/user-karma/combined/mike-nzioki?label=paul&logo=reddit">
+    <img alt="Reddit User Mike Nzioki" src="https://img.shields.io/reddit/user-karma/combined/mike-nzioki?label=paul&logo=reddit">
   </a>
   <a href="https://github.com/mike-nzioki?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mike-nzioki?color=green&logo=github">
@@ -18,7 +18,7 @@ I am Mike Nzioki, a software Developer at [Software Technologies Limited](https:
   <a href="https://linkedin.com/in/mike-nzioki">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://stackoverflow.com/users/11970826/odhiambopaul">
+  <a href="https://stackoverflow.com/users/11970826/mike-nzioki">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
