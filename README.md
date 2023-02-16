@@ -15,7 +15,7 @@ I am Mike Nzioki, a software Developer at [Software Technologies Limited](https:
   <a href="https://github.com/mike-nzioki?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mike-nzioki?color=green&logo=github">
   </a>
-  <a href="https://linkedin.com/in/mike-nzioki">
+  <a href="https://linkedin.com/in/mike-in-tech">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/11970826/mike-nzioki">
