@@ -3,7 +3,7 @@
 I am Mike Nzioki, a software Developer at [Software Technologies Limited](https://www.stl-horizon.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
-  <a href="https://twitter.com/mikie_mike">
+  <a href="https://twitter.com/@_mikie_mike">
     <img src="https://img.shields.io/twitter/follow/mikie_mike?mikie_mike?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.com/mike-nzioki/mike-nzioki">
@@ -15,7 +15,7 @@ I am Mike Nzioki, a software Developer at [Software Technologies Limited](https:
   <a href="https://linkedin.com/in/mike-in-tech">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://stackoverflow.com/users/11970826/mike-nzioki">
+  <a href="https://stackoverflow.com/users/22091984/mike-nzioki">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
