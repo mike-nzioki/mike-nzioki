@@ -9,9 +9,6 @@ I am Mike Nzioki, a software Developer at [Software Technologies Limited](https:
   <a href="https://github.com/mike-nzioki/mike-nzioki">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mike-nzioki.mike-nzioki" alt="page views" />
   </a>
-  <a href="https://www.reddit.com/user/mike-nzioki">
-    <img alt="Reddit User Mike Nzioki" src="https://img.shields.io/reddit/user-karma/combined/mike-nzioki?label=paul&logo=reddit">
-  </a>
   <a href="https://github.com/mike-nzioki?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mike-nzioki?color=green&logo=github">
   </a>
