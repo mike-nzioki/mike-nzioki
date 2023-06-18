@@ -1,5 +1,6 @@
 # 💫 About Me:
-Passionate software developer dedicated to delivering high-quality, scalable solutions that meet clients' needs. Committed to robust and efficient solutions, he is lifelong learner, always seeking new challenges and growth opportunities.
+Passionate software developer dedicated to delivering high-quality, scalable solutions that meet clients' needs.
+Committed to robust and efficient solutions, he is lifelong learner, always seeking new challenges and growth opportunities.
 
 
 ## 🌐 Socials:
