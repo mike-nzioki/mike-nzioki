@@ -13,10 +13,5 @@ Committed to robust and efficient solutions, he is lifelong learner, always seek
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mike-nzioki&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-nzioki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mike-nzioki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mike-nzioki&icon=0&color=0)](https://visitcount.itsvg.in)
