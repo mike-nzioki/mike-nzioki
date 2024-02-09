@@ -4,7 +4,7 @@ Committed to robust and efficient solutions, he is lifelong learner, always seek
 
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@mikie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]logo=stack-overflow&logoColor=white)](https://www.linkedin.com/in/mike-in-tech/) [![mikiedev.com](https://img.shields.io/badge/mikiedev.com=white)](https:mikiedev.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@mikie)
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
