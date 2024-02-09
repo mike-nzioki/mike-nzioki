@@ -33,8 +33,8 @@ Committed to robust and efficient solutions, he is lifelong learner, always seek
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mike-nzioki&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mike-nzioki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mike-nzioki&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-nzioki&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
