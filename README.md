@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate in software development, dedicated to delivering high-quality and scalable solutions tailored to client needs. Strong emphasis on collaboration, excelling in understanding client requirements and translating them into innovative software solutions. Committed to creating robust and efficient solutions, driven by a lifelong pursuit of learning, new challenges, and opportunities for growth.
+Passionate in software development, dedicated to delivering high-quality and scalable solutions tailored to client needs. Strong emphasis on collaboration, excelling in understanding client requirements and translating them into innovative software solutions.
 
 
 ## 🌐 Socials:
